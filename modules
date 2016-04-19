@@ -1,0 +1,46 @@
+<!doctype html>
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  
+</head>
+
+  <body bgcolor="#ff9900">
+ <font face="verdana" color="#444444">
+  
+<h2>Jennifer Wissing's Modules</h2>
+
+<ul id="menu">
+    <li><a href="https://www.msu.edu/~wissingj">Home</a></li>
+    <li><a href="https://www.msu.edu/~wissingj/modules/">Link to Modules</a></li>
+    <li><a href="https://www.youtube.com/">This is my favorite website</a></li>
+    <li><a href="syllabus.pdf">Link to Syllabus</a></li>
+</ul> 
+
+<IMG SRC="waffle.jpg" ALT="This is a Scottish Fold cat named Waffles laying on a tabe" WIDTH=640 HEIGHT=320>
+
+<p>
+  <div>
+  
+	  <ul>
+		  <li><a href="https://www.msu.edu/~wissingj/modules/module1.pdf">Link to Module 1</a></li>
+		  <li><a href="https://www.msu.edu/~wissingj/modules/module2.pdf">Link to Module 2</a></li>
+      <li><a href="https://www.msu.edu/~wissingj/modules/module3.pdf">Link to Module 3</a></li>
+      <li><a href="https://www.msu.edu/~wissingj/modules/module4.pdf">Link to Module 4</a></li>
+      <li><a href="https://www.msu.edu/~wissingj/modules/module5.pdf">Link to Module 5</a></li>
+      <li><a href="https://www.msu.edu/~wissingj/modules/module6.pdf">Link to Module 6</a></li>
+      <li><a href="https://www.msu.edu/~wissingj/modules/module7.pdf">Link to Module 7</a></li>
+      <li><a href="https://www.msu.edu/~wissingj/modules/module8.pdf">Link to Module 8</a></li>
+	  <li><a href="https://www.msu.edu/~wissingj/modules/module9.pdf">Link to Module 9</a></li>
+	  <li><a href="https://notehub.org/ea0tm">Link to Module 10</a></li>
+	  </ul>
+
+  </div>
+</p>
+
+
+<footer>
+        <p>Copyright &copy; Jennifer Wissing.</p>
+      </footer>
+</font>
+</body>
+</html>
